@@ -15,8 +15,8 @@ Got a data source to share? Send a pull request on [GitHub](https://github.com/b
 * Screenshot/Image of data source (optional)
 
 #### Via GitHub
-1. Clone this repository
-2. Add your resource to the **Awesome PH Data Sources.csv**
+1. Clone this repository (master branch)
+2. Add your resource to the **Awesome Data Philippines.csv**
 3. Send a Pull Request
 
 <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'><img class='mb-2' alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/80x15.png' /></a>
