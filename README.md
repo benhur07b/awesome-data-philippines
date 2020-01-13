@@ -1,9 +1,9 @@
-# Awesome Philippines Data Sources
+# Awesome Data Philippines
 A collection (always a work in progress) of sources for Philippine data
 
-See [https://bnhr.xyz/awesome-philippines-data-sources](https://bnhr.xyz/awesome-philippines-data-sources)
+See [https://bnhr.xyz/awesome-data-philippines](https://bnhr.xyz/awesome-data-philippines)
 
-Got a data source to share? Send a pull request on [GitHub](https://github.com/benhur07b/awesome-philippines-data-sources) or [contact me](https://bnhr.xyz/#contact).
+Got a data source to share? Send a pull request on [GitHub](https://github.com/benhur07b/awesome-data-philippines) or [contact me](https://bnhr.xyz/#contact).
 
 ### CONTRIBUTING
 #### Via email
