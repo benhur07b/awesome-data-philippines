@@ -1,5 +1,5 @@
 # Awesome Philippines Data Sources
-A collection of sources for Philippine data
+A collection (always a work in progress) of sources for Philippine data
 
 See [https://bnhr.xyz/awesome-philippines-data-sources](https://bnhr.xyz/awesome-philippines-data-sources)
 
